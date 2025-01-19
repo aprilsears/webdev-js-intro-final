@@ -37,13 +37,13 @@ All elements that will be referenced in `app.js` will have an id. Read through `
 
 If you get stuck, write psuedocode and break the game's functionality and logic into smaller pieces.
 
-- [ ] The span with the id of `guess-message` should output whether the guess is too high, too low, if the player won, or if the player lost.
-- [ ] The span with the id of `current-guess` should output the guess that was just submitted.
-- [ ] The span with the id of `computer-guess` should output the guess that was randomly generated.
-- [ ] The span with the id of `guess-history` should output your guess history.
-- [ ] The "Submit Guess" button should be enabled at the beginning of the game, but when the game is over it should be disabled.
-- [ ] The "Restart" button should be disabled at the beginning of the game, but when the game is over it should be enabled.
-- [ ] When the "Restart" button is clicked, all values and text output should reset.
+- [X] The span with the id of `guess-message` should output whether the guess is too high, too low, if the player won, or if the player lost.
+- [X] The span with the id of `current-guess` should output the guess that was just submitted.
+- [X] The span with the id of `computer-guess` should output the guess that was randomly generated.
+- [X] The span with the id of `guess-history` should output your guess history.
+- [X] The "Submit Guess" button should be enabled at the beginning of the game, but when the game is over it should be disabled.
+- [X] The "Restart" button should be disabled at the beginning of the game, but when the game is over it should be enabled.
+- [X] When the "Restart" button is clicked, all values and text output should reset.
 
 
 ### Tips
